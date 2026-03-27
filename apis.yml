@@ -1,0 +1,33 @@
+aid: defer
+name: Defer
+description: >-
+  Defer is a background job and workflow automation platform for running serverless functions with retries and scheduling.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Workflow Automation
+  - Developer-First
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/defer/refs/heads/main/apis.yml
+created: 2026-03-27
+modified: 2026-03-27
+specificationVersion: 0.19
+apis:
+  - aid: defer:defer
+    name: Defer
+    description: >-
+      Defer is a background job and workflow automation platform for running serverless functions with retries and scheduling.
+    humanURL: https://www.defer.run
+    tags:
+      - Workflow Automation
+    properties:
+      - type: Documentation
+        url: https://docs.defer.run
+common:
+  - type: Website
+    url: https://www.defer.run
+  - type: Documentation
+    url: https://docs.defer.run
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
