@@ -50,6 +50,8 @@ apis:
       - type: GitHubOrganization
         url: https://github.com/defer-run
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/defer-inc
   - type: Website
     url: https://www.defer.run
   - type: Documentation
