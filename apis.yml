@@ -25,7 +25,7 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/defer.png
 url: https://raw.githubusercontent.com/api-evangelist/defer/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 kind: company
 access: 3rd-Party
 position: Consuming
