@@ -31,6 +31,16 @@ access: 3rd-Party
 position: Consuming
 tags:
   - Background Jobs
+  - Cron
+  - Developer-First
+  - Node.js
+  - Queues
+  - Scheduling
+  - Serverless
+  - TypeScript
+  - Workflow-Automation
+tags_raw:
+  - Background Jobs
   - CRON
   - Developer-First
   - Node.js
@@ -53,6 +63,10 @@ apis:
       observability transparently.
     humanURL: https://www.defer.run
     tags:
+      - Background Jobs
+      - SDK
+      - Workflow-Automation
+    tags_raw:
       - Background Jobs
       - SDK
       - Workflow Automation
