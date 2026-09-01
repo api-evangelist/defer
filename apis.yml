@@ -42,7 +42,7 @@ access: 3rd-Party
 position: Consuming
 tags:
   - Background Jobs
-  - CRON
+  - Cron
   - Developer-First
   - Node.js
   - Queues
