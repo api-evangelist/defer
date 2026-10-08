@@ -90,6 +90,12 @@ apis:
       - type: GitHubOrganization
         url: https://github.com/defer-run
 common:
+  - type: Plans
+    url: plans/defer-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/defer-rate-limits.yml
+  - type: FinOps
+    url: finops/defer-finops.yml
   - type: DomainSecurity
     url: security/defer-domain-security.yml
   - type: LinkedIn
