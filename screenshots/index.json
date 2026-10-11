@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "defer",
+    "captured_at": "2026-10-11T185051",
+    "source_url": "https://www.defer.run",
+    "source_type": "Website",
+    "file": "defer-2026-10-11T185051.png",
+    "bytes": 59507,
+    "capture": "playwright-local"
+  }
+]
